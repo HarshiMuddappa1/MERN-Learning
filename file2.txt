@@ -1,3 +1,4 @@
 Hello again!.
 Welcome to learning.
 Added hooks
+Hello to stash :)
