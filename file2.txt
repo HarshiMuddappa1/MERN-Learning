@@ -1,4 +1,8 @@
 Hello again!.
 Welcome to learning.
 Added hooks
+<<<<<<< Updated upstream
 Hello to stash :)
+=======
+I am learning stash 
+>>>>>>> Stashed changes
